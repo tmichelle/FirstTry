@@ -1,0 +1,4 @@
+<Modules>
+  <Module PersistentId="F12FB268-031F-4FEA-A98E-9D23E3EA191C" ModuleId="FireWallRobot" />
+  <Module PersistentId="14765A9A-98C5-45B5-A875-66B167000BA7" ModuleId="FireWallRobotService" />
+</Modules>
