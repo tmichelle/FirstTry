@@ -10,6 +10,10 @@ namespace FireWallRobotService
     {
         /// <summary>
         /// The main entry point for the application.
+<<<<<<< HEAD
+=======
+        /// tesst
+>>>>>>> origin/branch1
         /// </summary>
         static void Main()
         {
